@@ -1,7 +1,6 @@
 # Switchboard
 
-#### UE5 nDisplay Switchboard
-for 5.1.1
+#### UE5 Switchboard for 5.1.1
 
 ## How to use  
 #### 1. Download "SwitchboardThirdParty.7z" from "Release" button.  
